@@ -1,5 +1,5 @@
 <h1 align="center"> :star2: Codeforces Problem Solutions </h1>
-- <h3 align="center">**Here you can find solutions of codeforces.**</h3>
+<h3 align="center" style="font-weight:500;">Here you can find solutions of codeforces.</h3>
 
 
 ## Problems (Sorted by Number of Submissions)
