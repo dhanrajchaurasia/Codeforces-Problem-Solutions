@@ -1,7 +1,8 @@
-# Codeforces Problem Solutions :
-### **Here you can find solutions of codeforces**
+<h1 align="center"> :star2: Codeforces Problem Solutions </h1>
+- <h3 align="center">**Here you can find solutions of codeforces.**</h3>
 
-# Problems (Sorted by Number of Submissions)
+
+## Problems (Sorted by Number of Submissions)
 - [A. Watermelon](https://codeforces.com/contest/4/submission/115842242)
 - [A. Way Too Long Words](https://codeforces.com/contest/71/submission/115500599)
 - [A. Theatre Square](https://codeforces.com/contest/1/submission/122630014)
