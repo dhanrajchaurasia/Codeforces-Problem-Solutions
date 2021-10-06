@@ -2,7 +2,8 @@
 <h3 align="center" style="font-weight:500;">Here you can find solutions of codeforces.</h3>
 
 
-<h2 align="center" style="font-weight:500;">Problems' Solutions <h4>(sorted in difficuly level)</h4>.</h2>
+<h2 align="center" style="font-weight:500;">Problem Solutions</h2>
+<h4>(sorted in difficuly level)</h4>
 - [A. Watermelon](https://codeforces.com/contest/4/submission/115842242)
 - [A. Way Too Long Words](https://codeforces.com/contest/71/submission/115500599)
 - [A. Theatre Square](https://codeforces.com/contest/1/submission/122630014)
