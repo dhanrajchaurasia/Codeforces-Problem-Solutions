@@ -1,7 +1,7 @@
 <h1 align="center"> :star2: Codeforces Problem Solutions </h1>
 <h3 align="center" style="font-weight:500;">Here you can find solutions of codeforces.</h3>
 
-<h2 align="center" style="font-weight:500;"> :star2: Problem Solutions <h4 align="center">(sorted in difficuly level).</h4></h2>
+<h2 align="center" style="font-weight:500;"> :star2: Problem Solutions <span align="center">(sorted in difficuly level).</span></h2>
 <li><a href="https://codeforces.com/contest/4/submission/115842242">A. Watermelon </a></li>
 <li><a href="https://codeforces.com/contest/71/submission/115500599">A. Way Too Long Words </a></li>
 <li><a href="https://codeforces.com/contest/1/submission/122630014">A. Theatre Square </a></li>
